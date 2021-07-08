@@ -125,7 +125,7 @@ function App() {
       
       
     }
-  },[data])
+  },[data,tenPokemons])
 
 
 
